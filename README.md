@@ -9,19 +9,19 @@ Danganronpa es una serie de videojugos de desarrollados y publicados por Spike C
   
 1.Danganronpa: Trigger Happy Havoc [+](https://danganronpa.fandom.com/es/wiki/Danganronpa:_Trigger_Happy_Havoc).
 
-- [Estudiantes](https://github.com/darkness778/Git-local-/blob/main/README.md#estudiantes).
+- Estudiantes.
 
-+ [Otros](https://github.com/darkness778/Git-local-/blob/main/README.md#otros).
++ Otros.
 
 2.Danganronpa 2: Goodbye Despair [+](https://danganronpa.fandom.com/es/wiki/Danganronpa_2:_Goodbye_Despair).
-- [Estudiantes](https://github.com/darkness778/Git-local-/blob/main/README.md#estudiantes-1).
+- Estudiantes.
 
-+ [Otros](https://github.com/darkness778/Git-local-/blob/main/README.md#otros-1).
++ Otros.
 
 3.Danganronpa V3: Killing Harmony [+](https://danganronpa.fandom.com/es/wiki/Danganronpa_V3:_Killing_Harmony).
-- [Estudiantes](https://github.com/darkness778/Git-local-/blob/main/README.md#estudiantes-2).
+- Estudiantes.
 
-+ [Otros](https://github.com/darkness778/Git-local-/blob/main/README.md#otros-2).
++ Otros.
 
 
 # Danganronpa: Trigger Happy Havoc
